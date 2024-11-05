@@ -4,3 +4,7 @@ description: Teste do Tema
 
 plugins:
     - jekyll-t4j
+
+t4j:
+  packages:
+    - chemfig
